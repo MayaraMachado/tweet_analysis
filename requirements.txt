@@ -1,0 +1,4 @@
+tweepy==3.9.9
+python-decouple==3.3
+textblob==0.15.3
+numpy==1.19.1
