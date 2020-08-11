@@ -16,13 +16,6 @@ pip install -r requirements.txt
 
 Recomendo o uso de VirtualEnv para realizar a instalação das bibliotecas.
 
-### Executando
-
-```
-python src/main.py
-```
-
-
 ## Construído com
 
 * [Python3](http://www.dropwizard.io/1.0.2/docs/) - A linguagem de programação utilizada
